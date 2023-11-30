@@ -1,0 +1,10 @@
+* {
+  font-size: 20px;
+}
+
+.main-heading {
+  background-color: red;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
