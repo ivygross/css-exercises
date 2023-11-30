@@ -1,0 +1,23 @@
+#info :nth-child(2n + 1) {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.second {
+  color: blue;
+  font-size: 36px;
+}
+
+/* #info :nth-child(3) {
+  font-size: 24px;
+} */
+
+.third {
+  font-size: 24px;
+}
+
+#fourth {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: rgb(120, 255, 0);
+}
